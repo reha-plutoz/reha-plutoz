@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reha-plutoz&label=Profile%20views&color=0e75b6&style=flat" alt="reha-plutoz" /> </p>
 
-- 🔭 I’m currently working on **crmnl**
-
 - 👨‍💻 All of my projects are available at [https://github.com/reha-plutoz](https://github.com/reha-plutoz)
 
 - 📫 How to reach me Discord: **Reha#8888**
