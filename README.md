@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/reha-plutoz](https://github.com/reha-plutoz)
 
-- 📫 How to reach me Discord: **Reha#8888**
+- 📫 How to reach me Discord: **Reha#8823**
 
 - ⚡ Fun fact **I am the real "Rehaklinik"**
 
